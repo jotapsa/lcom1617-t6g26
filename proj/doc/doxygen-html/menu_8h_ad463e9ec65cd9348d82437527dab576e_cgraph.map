@@ -1,6 +1,0 @@
-<map id="menu_draw" name="menu_draw">
-<area shape="rect" id="node2" href="$group___bitmap.html#ga28bb2b9dcb031c01e613183620c85463" title="Draws an unscaled, unrotated bitmap at the given position. " alt="" coords="281,31,372,57"/>
-<area shape="rect" id="node5" href="$menu_8c.html#a773742cb04e55ef0224a2e85c8ed1e98" title="Draw a button. " alt="" coords="141,56,233,83"/>
-<area shape="rect" id="node3" href="$video__gr_8c.html#ae2b9b38f4f97e1c580123c8e9a993353" title="returns horizontal resolution " alt="" coords="420,5,541,32"/>
-<area shape="rect" id="node4" href="$video__gr_8c.html#a7ee85b0f333d227380a2c43e5fb8507a" title="returns vertical resolution " alt="" coords="420,56,541,83"/>
-</map>

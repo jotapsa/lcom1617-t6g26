@@ -1,6 +1,0 @@
-<map id="player_1_check_colision" name="player_1_check_colision">
-<area shape="rect" id="node2" href="$mp__local_8h.html#a54159d1d2413a0052f26b6e5e6fd4375" title="What to do every tick. " alt="" coords="225,5,328,32"/>
-<area shape="rect" id="node5" href="$singleplayer_8h.html#a4668e392c3469acdfc81f275792c872a" title="What to do every tick. " alt="" coords="217,56,336,83"/>
-<area shape="rect" id="node3" href="$events_8h.html#a873dd91783f9efb4a590aded1f70d6b0" title="handles timer interrupts for each mode " alt="" coords="384,31,427,57"/>
-<area shape="rect" id="node4" href="$tron_8h.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="475,31,525,57"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="read_from_rtc" name="read_from_rtc">
-<area shape="rect" id="node2" href="$rtc_8h.html#a0114ccc8b2d15f3c829ba87498291efe" title="Reads time from RTC. " alt="" coords="155,5,220,32"/>
-<area shape="rect" id="node4" href="$rtc_8h.html#abc5c3ee3eb4dba5809eba341693b2412" title="Reads date from RTC. " alt="" coords="155,56,220,83"/>
-<area shape="rect" id="node3" href="$tron_8h.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="268,31,319,57"/>
-</map>

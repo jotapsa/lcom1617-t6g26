@@ -1,7 +1,0 @@
-<map id="lm_init" name="lm_init">
-<area shape="rect" id="node2" href="$group__vbe.html#ga4ef3234e41f2050bc094a22049b69e45" title="Returns information on the input VBE mode, including screen dimensions, color depth and VRAM physical..." alt="" coords="124,5,256,32"/>
-<area shape="rect" id="node6" href="$vbe_8c.html#aa5a492a01936f2a5d7ac0117d635af85" title="vbe_get_controller_info" alt="" coords="113,56,267,83"/>
-<area shape="rect" id="node3" href="$video__gr_8h.html#acef21667c79365d57a084bed994c2189" title="Initializes the video module in graphics mode. " alt="" coords="315,5,373,32"/>
-<area shape="rect" id="node4" href="$tron_8h.html#a10a61aa220bdde274762dd8936777f44" title="Boots program into the menu. " alt="" coords="421,5,497,32"/>
-<area shape="rect" id="node5" href="$tron_8h.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="545,5,596,32"/>
-</map>

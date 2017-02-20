@@ -1,4 +1,0 @@
-<map id="timer_struct" name="timer_struct">
-<area shape="rect" id="node2" href="$struct_bitmap.html" title="Represents a Bitmap. " alt="" coords="18,292,118,369"/>
-<area shape="rect" id="node3" href="$struct_bitmap_info_header.html" title="{BitmapInfoHeader\n|+ size\l+ width\l+ height\l+ planes\l+ bits\l+ compression\l+ imageSize\l+ xResolution\l+ yResolution\l+ nColors\l+ importantColors\l|}" alt="" coords="5,5,131,229"/>
-</map>

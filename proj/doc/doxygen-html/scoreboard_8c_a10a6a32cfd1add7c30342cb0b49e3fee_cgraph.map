@@ -1,3 +1,0 @@
-<map id="scoreboard_destroy" name="scoreboard_destroy">
-<area shape="rect" id="node2" href="$group___bitmap.html#ga08c1d4f4fff81df260d979ea8fc1aa61" title="Destroys the given bitmap, freeing all resources used by it. " alt="" coords="189,5,288,32"/>
-</map>

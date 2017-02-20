@@ -1,8 +1,0 @@
-<map id="end_mp_local" name="end_mp_local">
-<area shape="rect" id="node2" href="$tron_8h.html#ac863f542e7663183872a11b576aa2f57" title="Deletes current state. " alt="" coords="156,31,279,57"/>
-<area shape="rect" id="node3" href="$menu_8h.html#a1e8fb6f14672b7f6cf1c0e7b269300b2" title="Code to run when we make a selection in the menu. " alt="" coords="504,5,656,32"/>
-<area shape="rect" id="node6" href="$tron_8h.html#a6f447afbbd43ca61c6dc18ee3c60ec90" title="Changes game state. " alt="" coords="327,56,456,83"/>
-<area shape="rect" id="node4" href="$events_8h.html#ac4b0a3adf885fb79d7e7a3cc5bb0d467" title="handles keyboard interrupts for each mode " alt="" coords="704,56,816,83"/>
-<area shape="rect" id="node5" href="$tron_8h.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="864,107,915,133"/>
-<area shape="rect" id="node7" href="$events_8h.html#a873dd91783f9efb4a590aded1f70d6b0" title="handles timer interrupts for each mode " alt="" coords="739,157,781,184"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="players_create" name="players_create">
-<area shape="rect" id="node2" href="$mp__local_8h.html#a855da857514c039be22de9bd889c1c20" title="Calls functions to start local Multiplayer. " alt="" coords="169,56,275,83"/>
-<area shape="rect" id="node8" href="$singleplayer_8h.html#a4624fb426bf546e6d0437bc9325528ed" title="Calls functions to start Singleplayer. " alt="" coords="160,107,284,133"/>
-<area shape="rect" id="node3" href="$tron_8h.html#a6f447afbbd43ca61c6dc18ee3c60ec90" title="Changes game state. " alt="" coords="332,81,461,108"/>
-<area shape="rect" id="node4" href="$events_8h.html#a873dd91783f9efb4a590aded1f70d6b0" title="handles timer interrupts for each mode " alt="" coords="744,5,787,32"/>
-<area shape="rect" id="node5" href="$tron_8h.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="869,56,920,83"/>
-<area shape="rect" id="node6" href="$events_8h.html#ac4b0a3adf885fb79d7e7a3cc5bb0d467" title="handles keyboard interrupts for each mode " alt="" coords="709,107,821,133"/>
-<area shape="rect" id="node7" href="$menu_8h.html#a1e8fb6f14672b7f6cf1c0e7b269300b2" title="Code to run when we make a selection in the menu. " alt="" coords="509,157,661,184"/>
-</map>

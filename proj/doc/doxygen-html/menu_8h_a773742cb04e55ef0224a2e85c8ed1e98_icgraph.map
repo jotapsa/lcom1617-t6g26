@@ -1,5 +1,0 @@
-<map id="button_draw" name="button_draw">
-<area shape="rect" id="node2" href="$menu_8h.html#ad463e9ec65cd9348d82437527dab576e" title="Draw the menu. " alt="" coords="145,5,233,32"/>
-<area shape="rect" id="node3" href="$events_8h.html#a873dd91783f9efb4a590aded1f70d6b0" title="handles timer interrupts for each mode " alt="" coords="281,5,324,32"/>
-<area shape="rect" id="node4" href="$tron_8h.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="372,5,423,32"/>
-</map>
