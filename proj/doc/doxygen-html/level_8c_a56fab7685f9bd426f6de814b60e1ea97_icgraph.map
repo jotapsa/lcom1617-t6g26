@@ -1,0 +1,10 @@
+<map id="level_destroy" name="level_destroy">
+<area shape="rect" id="node2" href="$mp__local_8h.html#a4066d2fc67719cb270704a8b698a0ae6" title="Calls functions to end local Multiplayer. " alt="" coords="159,5,261,32"/>
+<area shape="rect" id="node9" href="$singleplayer_8h.html#a18d28dd07c598af0f8bc0d9afa1e54a8" title="Calls functions to end Singleplayer. " alt="" coords="151,56,269,83"/>
+<area shape="rect" id="node3" href="$tron_8h.html#ac863f542e7663183872a11b576aa2f57" title="Deletes current state. " alt="" coords="317,31,440,57"/>
+<area shape="rect" id="node4" href="$menu_8h.html#a1e8fb6f14672b7f6cf1c0e7b269300b2" title="Code to run when we make a selection in the menu. " alt="" coords="665,5,817,32"/>
+<area shape="rect" id="node7" href="$tron_8h.html#a6f447afbbd43ca61c6dc18ee3c60ec90" title="Changes game state. " alt="" coords="488,56,617,83"/>
+<area shape="rect" id="node5" href="$events_8h.html#ac4b0a3adf885fb79d7e7a3cc5bb0d467" title="handles keyboard interrupts for each mode " alt="" coords="865,56,977,83"/>
+<area shape="rect" id="node6" href="$tron_8h.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="1025,107,1076,133"/>
+<area shape="rect" id="node8" href="$events_8h.html#a873dd91783f9efb4a590aded1f70d6b0" title="handles timer interrupts for each mode " alt="" coords="900,157,943,184"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="tron_quit" name="tron_quit">
+<area shape="rect" id="node2" href="$timer_8c.html#ab9eea51549744bca5c5c923b388bb4ee" title="Unsubscribes Timer 0 interrupts. " alt="" coords="130,5,279,32"/>
+<area shape="rect" id="node3" href="$kbd_8c.html#a5bdf6cfb570c375192b0d87913b65c57" title="Unsubscribes to keyboard interrupts. " alt="" coords="134,56,275,83"/>
+<area shape="rect" id="node4" href="$mouse_8c.html#a7ec7129b0f18b28326c1f28a53a07503" title="writes in the address some given data " alt="" coords="157,107,252,133"/>
+<area shape="rect" id="node5" href="$mouse_8c.html#a706f65d25454f08568fd7d38170e3b44" title="reads data from the adress " alt="" coords="158,157,251,184"/>
+<area shape="rect" id="node6" href="$mouse_8c.html#a685ad2706aca36d9869a30a19b9f446a" title="Unsubscribes to mouse interrupts. " alt="" coords="125,208,284,235"/>
+<area shape="rect" id="node7" href="$mouse_8c.html#ab45e3257277e7d9d4ed6b866cdfd99ad" title="Clears the OUT_BUF. " alt="" coords="143,259,267,285"/>
+<area shape="rect" id="node8" href="$mouse_8c.html#a70fe03691952d29173ccccf81f9c0943" title="Destroys the mouse and frees the resources used by it. " alt="" coords="149,309,260,336"/>
+<area shape="rect" id="node9" href="$group___bitmap.html#ga08c1d4f4fff81df260d979ea8fc1aa61" title="Destroys the given bitmap, freeing all resources used by it. " alt="" coords="332,309,431,336"/>
+</map>

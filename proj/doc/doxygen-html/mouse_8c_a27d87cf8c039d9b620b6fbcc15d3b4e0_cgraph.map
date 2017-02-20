@@ -1,0 +1,6 @@
+<map id="mouse_draw" name="mouse_draw">
+<area shape="rect" id="node2" href="$group___bitmap.html#ga405eb756aed42b0d3e7d622e61bded25" title="Draws an unscaled, unrotated bitmap at the given position. " alt="" coords="148,56,316,83"/>
+<area shape="rect" id="node3" href="$video__gr_8c.html#ae2b9b38f4f97e1c580123c8e9a993353" title="returns horizontal resolution " alt="" coords="364,5,485,32"/>
+<area shape="rect" id="node4" href="$video__gr_8c.html#a7ee85b0f333d227380a2c43e5fb8507a" title="returns vertical resolution " alt="" coords="364,56,485,83"/>
+<area shape="rect" id="node5" href="$group___bitmap.html#ga6eee5e31d85529ac7c6cddc21bc61e77" title="Takes a value between 0 and 255 for red green and blue, and turns into a value we can use for color..." alt="" coords="405,107,445,133"/>
+</map>

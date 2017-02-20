@@ -1,0 +1,7 @@
+<map id="start_mp_local" name="start_mp_local">
+<area shape="rect" id="node2" href="$timer_8c.html#a94c94d583945b42549de980364956db8" title="Allocates memory and initializes timer. " alt="" coords="177,5,272,32"/>
+<area shape="rect" id="node4" href="$level_8c.html#adc0ed36c385e3c3e4db06a60b8742f53" title="Allocates memory for the levels and initializes each, loading respective bitmaps. ..." alt="" coords="179,56,270,83"/>
+<area shape="rect" id="node5" href="$scoreboard_8c.html#aa0b46a42c862c5555873a784c43fe0b0" title="Allocates memory and initializes the scoreboard. " alt="" coords="160,107,289,133"/>
+<area shape="rect" id="node6" href="$players_8c.html#a6d9828d1af9b102f3a10e78e1b5a9ec1" title="Allocates memory for the players and initializes both. " alt="" coords="171,157,278,184"/>
+<area shape="rect" id="node3" href="$group___bitmap.html#ga3506880ffd407c36eb8aaddd2c1606d2" title="Loads a bmp image. " alt="" coords="337,56,424,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="end_mp_local" name="end_mp_local">
+<area shape="rect" id="node2" href="$timer_8c.html#a16a648738af051ff4880a5a5fa43eb89" title="Destroys the timer and frees the resources used by it. " alt="" coords="173,5,275,32"/>
+<area shape="rect" id="node4" href="$level_8c.html#a56fab7685f9bd426f6de814b60e1ea97" title="Destroys the levels, freeing all resources used. " alt="" coords="175,56,273,83"/>
+<area shape="rect" id="node5" href="$scoreboard_8c.html#a10a6a32cfd1add7c30342cb0b49e3fee" title="Destroys the scoreboard, freeing the resources used by it. " alt="" coords="156,107,292,133"/>
+<area shape="rect" id="node6" href="$players_8c.html#a4543bc230ccff392101ea35136cd5408" title="Destroys the players, freeing the resources used. " alt="" coords="167,157,281,184"/>
+<area shape="rect" id="node3" href="$group___bitmap.html#ga08c1d4f4fff81df260d979ea8fc1aa61" title="Destroys the given bitmap, freeing all resources used by it. " alt="" coords="340,81,439,108"/>
+</map>

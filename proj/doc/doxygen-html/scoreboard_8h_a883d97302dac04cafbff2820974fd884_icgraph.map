@@ -1,0 +1,4 @@
+<map id="scoreboard_draw" name="scoreboard_draw">
+<area shape="rect" id="node2" href="$events_8h.html#a873dd91783f9efb4a590aded1f70d6b0" title="handles timer interrupts for each mode " alt="" coords="173,5,216,32"/>
+<area shape="rect" id="node3" href="$tron_8h.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="264,5,315,32"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="vars.h" name="vars.h">
+<area shape="rect" id="node2" href="$events_8c.html" title="events.c" alt="" coords="462,155,533,181"/>
+<area shape="rect" id="node3" href="$players_8h.html" title="players.h" alt="" coords="249,80,324,107"/>
+<area shape="rect" id="node4" href="$mp__local_8c.html" title="mp_local.c" alt="" coords="5,155,91,181"/>
+<area shape="rect" id="node5" href="$players_8c.html" title="players.c" alt="" coords="115,155,189,181"/>
+<area shape="rect" id="node7" href="$singleplayer_8c.html" title="singleplayer.c" alt="" coords="335,155,438,181"/>
+<area shape="rect" id="node8" href="$menu_8h.html" title="menu.h" alt="" coords="567,80,633,107"/>
+<area shape="rect" id="node9" href="$menu_8c.html" title="menu.c" alt="" coords="557,155,622,181"/>
+<area shape="rect" id="node10" href="$mouse_8c.html" title="mouse.c" alt="" coords="647,155,719,181"/>
+<area shape="rect" id="node11" href="$tron_8c.html" title="tron.c" alt="" coords="743,155,798,181"/>
+<area shape="rect" id="node12" href="$kbd_8c.html" title="kbd.c" alt="" coords="759,80,814,107"/>
+<area shape="rect" id="node13" href="$rtc_8c.html" title="rtc.c" alt="" coords="839,80,887,107"/>
+<area shape="rect" id="node14" href="$timer_8c.html" title="timer.c" alt="" coords="911,80,974,107"/>
+<area shape="rect" id="node15" href="$vbe_8h.html" title="vbe.h" alt="" coords="998,80,1050,107"/>
+<area shape="rect" id="node17" href="$video__gr_8c.html" title="video_gr.c" alt="" coords="1048,155,1128,181"/>
+<area shape="rect" id="node6" href="$scoreboard_8c.html" title="scoreboard.c" alt="" coords="214,155,311,181"/>
+<area shape="rect" id="node16" href="$vbe_8c.html" title="vbe.c" alt="" coords="971,155,1023,181"/>
+</map>

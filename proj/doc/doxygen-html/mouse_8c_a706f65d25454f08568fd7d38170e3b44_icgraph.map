@@ -1,0 +1,6 @@
+<map id="mouse_read" name="mouse_read">
+<area shape="rect" id="node2" href="$mouse_8h.html#a7f8768caa029cfc2034d81f6575f978a" title="reads packet data " alt="" coords="267,5,397,32"/>
+<area shape="rect" id="node4" href="$tron_8h.html#a4cc8bd2467293dcc065e4ab13b65f6b2" title="Exits program after destroying everything. " alt="" coords="147,56,219,83"/>
+<area shape="rect" id="node5" href="$tron_8h.html#a10a61aa220bdde274762dd8936777f44" title="Boots program into the menu. " alt="" coords="294,107,370,133"/>
+<area shape="rect" id="node3" href="$tron_8h.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="445,56,496,83"/>
+</map>

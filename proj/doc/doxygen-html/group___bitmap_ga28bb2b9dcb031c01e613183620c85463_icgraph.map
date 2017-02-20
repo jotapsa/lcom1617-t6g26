@@ -1,0 +1,7 @@
+<map id="drawBitmap" name="drawBitmap">
+<area shape="rect" id="node2" href="$events_8h.html#a873dd91783f9efb4a590aded1f70d6b0" title="handles timer interrupts for each mode " alt="" coords="452,52,495,79"/>
+<area shape="rect" id="node4" href="$menu_8h.html#a773742cb04e55ef0224a2e85c8ed1e98" title="Draw a button. " alt="" coords="144,27,236,53"/>
+<area shape="rect" id="node5" href="$menu_8h.html#ad463e9ec65cd9348d82437527dab576e" title="Draw the menu. " alt="" coords="300,52,388,79"/>
+<area shape="rect" id="node6" href="$scoreboard_8h.html#a883d97302dac04cafbff2820974fd884" title="Draws the scoreboard. " alt="" coords="284,115,404,141"/>
+<area shape="rect" id="node3" href="$tron_8h.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="543,52,593,79"/>
+</map>

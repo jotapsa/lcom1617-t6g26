@@ -1,0 +1,5 @@
+<map id="drawBitmap_greenscreen" name="drawBitmap_greenscreen">
+<area shape="rect" id="node2" href="$video__gr_8c.html#ae2b9b38f4f97e1c580123c8e9a993353" title="returns horizontal resolution " alt="" coords="221,5,343,32"/>
+<area shape="rect" id="node3" href="$video__gr_8c.html#a7ee85b0f333d227380a2c43e5fb8507a" title="returns vertical resolution " alt="" coords="221,56,343,83"/>
+<area shape="rect" id="node4" href="$group___bitmap.html#ga6eee5e31d85529ac7c6cddc21bc61e77" title="Takes a value between 0 and 255 for red green and blue, and turns into a value we can use for color..." alt="" coords="262,107,302,133"/>
+</map>

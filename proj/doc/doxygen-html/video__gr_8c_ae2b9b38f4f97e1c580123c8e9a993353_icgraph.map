@@ -1,0 +1,14 @@
+<map id="getHorResolution" name="getHorResolution">
+<area shape="rect" id="node2" href="$group___bitmap.html#ga28bb2b9dcb031c01e613183620c85463" title="Draws an unscaled, unrotated bitmap at the given position. " alt="" coords="175,120,265,147"/>
+<area shape="rect" id="node8" href="$group___bitmap.html#ga405eb756aed42b0d3e7d622e61bded25" title="Draws an unscaled, unrotated bitmap at the given position. " alt="" coords="313,247,481,273"/>
+<area shape="rect" id="node3" href="$events_8h.html#a873dd91783f9efb4a590aded1f70d6b0" title="handles timer interrupts for each mode " alt="" coords="708,196,751,223"/>
+<area shape="rect" id="node5" href="$menu_8h.html#a773742cb04e55ef0224a2e85c8ed1e98" title="Draw a button. " alt="" coords="351,69,443,96"/>
+<area shape="rect" id="node6" href="$menu_8h.html#ad463e9ec65cd9348d82437527dab576e" title="Draw the menu. " alt="" coords="551,69,639,96"/>
+<area shape="rect" id="node7" href="$scoreboard_8h.html#a883d97302dac04cafbff2820974fd884" title="Draws the scoreboard. " alt="" coords="337,171,457,197"/>
+<area shape="rect" id="node4" href="$tron_8h.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="799,196,849,223"/>
+<area shape="rect" id="node9" href="$mouse_8h.html#a27d87cf8c039d9b620b6fbcc15d3b4e0" title="Draw mouse. " alt="" coords="547,171,642,197"/>
+<area shape="rect" id="node10" href="$players_8h.html#a31765cce73d5f8d55ea8565c4719c1d2" title="Draws player 1. " alt="" coords="542,221,647,248"/>
+<area shape="rect" id="node11" href="$players_8h.html#a377d0609483684d08619208ed713a2be" title="Draws player 2. " alt="" coords="542,272,647,299"/>
+<area shape="rect" id="node12" href="$players_8h.html#ab1fe4a67d79370385e0a01f65a1429c1" title="Draws player 1 win bitmap. " alt="" coords="529,323,660,349"/>
+<area shape="rect" id="node13" href="$players_8h.html#a6a25a8a6058feab7fd72d04dc0f96deb" title="Draws player 2 win bitmap. " alt="" coords="529,373,660,400"/>
+</map>

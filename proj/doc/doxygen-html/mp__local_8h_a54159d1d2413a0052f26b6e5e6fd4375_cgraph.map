@@ -1,0 +1,10 @@
+<map id="mp_local_tick" name="mp_local_tick">
+<area shape="rect" id="node2" href="$players_8c.html#a6388b5e1c8a9c7ffadf7ea914ab3f875" title="Updates player 1 position. " alt="" coords="179,5,297,32"/>
+<area shape="rect" id="node3" href="$players_8c.html#a4ddc039bcf6d7bba3c15860a3904ed2d" title="Updates player 2 position. " alt="" coords="179,56,297,83"/>
+<area shape="rect" id="node4" href="$players_8c.html#adeddf3988cdf08aed8dd2e096ed032e0" title="Draws player 1 trail. " alt="" coords="171,107,305,133"/>
+<area shape="rect" id="node6" href="$group___bitmap.html#ga6eee5e31d85529ac7c6cddc21bc61e77" title="Takes a value between 0 and 255 for red green and blue, and turns into a value we can use for color..." alt="" coords="218,157,258,184"/>
+<area shape="rect" id="node7" href="$players_8c.html#a21bd0ac2fab647a38dde83b6a1b1e489" title="Draws player 2 trail. " alt="" coords="171,208,305,235"/>
+<area shape="rect" id="node8" href="$players_8c.html#a7c44b6590085c78ea687bb5a32d0337d" title="Checks if player 1 has colided. " alt="" coords="156,259,320,285"/>
+<area shape="rect" id="node9" href="$players_8c.html#ab578a3da471530d7055dd4f2e9fcfdf1" title="Checks if player 2 has colided. " alt="" coords="156,309,320,336"/>
+<area shape="rect" id="node5" href="$video__gr_8c.html#a03fb6b916e4af5eb008154702bd2cc9d" title="vg_draw_pixel" alt="" coords="368,157,471,184"/>
+</map>
